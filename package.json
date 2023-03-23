@@ -2,6 +2,7 @@
   "name": "@41t/shorten-link-client",
   "version": "0.0.0",
   "type": "module",
+  "license": "MIT",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
